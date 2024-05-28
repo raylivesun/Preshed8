@@ -1,0 +1,8 @@
+{
+    "code":{
+        "name": "EAI_AGAIN",
+        "errno": "-3001",
+        "hostname": "dc.services.visualstudio.com",
+        "syscall": "getaddinfo"
+    }
+}
